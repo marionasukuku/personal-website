@@ -26,7 +26,7 @@ img {
     height: max-content;
 }
 footer {
-    text-align: end;
+    text-align: center;
     column-rule-color: blanchedalmond;
     font-family: 'Times New Roman', Times, serif;
 }
